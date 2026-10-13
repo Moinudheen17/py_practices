@@ -1,3 +1,3 @@
-#Reverse a string without using slicing.
+#Reverse a string with slicing.
 a = "moinu"
 print(a[::-1])
