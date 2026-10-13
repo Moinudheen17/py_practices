@@ -1,0 +1,11 @@
+#palindrome check.
+a = input("enter word :")
+reverse = ""
+for char in a :
+    reverse = char + reverse
+if reverse == a :
+    print("palindrome")
+else :
+    print("not palindrome")
+    
+
